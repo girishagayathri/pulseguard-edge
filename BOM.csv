@@ -1,0 +1,13 @@
+Item,Quantity,Unit Cost (USD),Total (USD),Source
+ESP32 DevKitC,1,6.00,6.00,Local supplier
+MAX30102 module,1,3.00,3.00,Online
+MPU6050 module,1,2.00,2.00,Online
+AD8232 ECG module,1,5.00,5.00,Online
+ECG electrodes and lead wires,1 set,3.00,3.00,Online
+LiPo 1000 mAh,1,5.00,5.00,Online
+TP4056 charger,1,1.00,1.00,Online
+Buzzer,1,0.50,0.50,Local
+LED + resistor,1,0.50,0.50,Local
+PCB / breadboard + wires,1,3.00,3.00,Local
+Enclosure,1,2.00,2.00,3D printed
+TOTAL,,,31.00,
